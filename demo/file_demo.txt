@@ -1,0 +1,10 @@
+good  : gut
+jump;  leap ; bounce  : springen
+    bad:  schlecht
+be  : sein
+           have: haben
+yes: ja
+do       ; conduct    :  tun       ;          machen
+  no:     nein
+not                     : nicht
+eat:    essen
